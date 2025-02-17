@@ -1,2 +1,1 @@
 # Trinadh
-Mern full stack 
